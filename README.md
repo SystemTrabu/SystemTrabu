@@ -16,7 +16,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="www.linkedin.com/in/systemtrabu" target="blank"><img align="center" src="https://img.shields.io/badge/Arturo Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:arturo2208xd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/arturo2208xd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/SystemTrabu" target="blank"><img align="center" src="https://img.shields.io/badge/SystemTrabu-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Arturo Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:arturo2208xd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/arturo2208xd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/SystemTrabu" target="blank"><img align="center" src="https://img.shields.io/badge/SystemTrabu-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>

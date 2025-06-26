@@ -61,13 +61,6 @@
 <hr>
 <Br>
 
-<Br>
-<h1>GitHub Stats</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=SystemTrabu&show_icons=true&theme=merko)](https://github.com/SystemTrabu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemTrabu&layout=compact&theme=merko)](https://github.com/SystemTrabu/github-readme-stats)
 
- 
-<Br>
 
 

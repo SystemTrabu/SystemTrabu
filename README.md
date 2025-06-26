@@ -4,12 +4,12 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/SystemTrabu">Arturo Torres<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>About Me</h1>
 
-- 🏫: I am a seventh grade student, a university student.
-- 💻: BackEnd developer
-- 🌱: I am currently learning SpringBot and AI. 🧠💻🤖
-- ⚡ Hobbies: I play video games
+-  I am a university student.
+-  BackEnd developer
+- I am currently learning SpringBot and AI. 🧠💻🤖
+
   
 <hr>
 <Br>
@@ -37,7 +37,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1>Tools I use</h1>
 <Br>
  
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -51,7 +51,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my projects that I have worked on 🎨</h1>
+<h1>Some of my projects that I have worked on </h1>
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JJoosh&repo=EnlaceDigna)](https://github.com/JJoosh/EnlaceDigna)
@@ -62,7 +62,7 @@
 <Br>
 
 <Br>
-<h1>GitHub Stats! 📊</h1>
+<h1>GitHub Stats</h1>
 <Br>
   
 [![Arya's github stats](https://github-readme-stats.vercel.app/api?username=SystemTrabu&show_icons=true&theme=merko)](https://github.com/SystemTrabu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemTrabu&layout=compact&theme=merko)](https://github.com/SystemTrabu/github-readme-stats)
@@ -70,6 +70,4 @@
  
 <Br>
 
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
+
